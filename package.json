@@ -1,13 +1,7 @@
 {
-  "name": "WEEK_1",
+  "name": "week1",
   "version": "1.0.0",
-  "description": "Repository for Week 1",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "private": true,
-  "author": "Ashar Asad ",
   "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2",
